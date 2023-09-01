@@ -1,0 +1,8 @@
+update function method => 
+{
+  "addresses": [
+    "0x72e90C673D456FaC8f4D5E65A18c443554d1F434",
+    "0x72e90C673D456FaC8f4D5E65A18c443554d1F434"
+  ]
+}
+
